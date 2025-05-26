@@ -1,6 +1,7 @@
-### Hi there 👋 my name is Ivan
+Hi there 👋 I'm Ivan
 
-- 🌱 I’m currently learning and practicing Golang and gRPC
-- 🧑‍💻 working on interesting projects like **weatherly, todo-app and webchat** to solidify my skills
-- 📫 You can reach me via telegram @Kontentski
+🧠 Backend Developer
 
+💼 Currently working at Webitel
+
+💬 Reach me on Telegram: @Kontentski
